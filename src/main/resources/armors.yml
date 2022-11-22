@@ -1,0 +1,9 @@
+armors:
+  owner:
+    icon: "LEATHER_CHESTPLATE"
+    icon-data: "14"
+    armor-color: "0x990000"
+  developer:
+    icon: "LEATHER_CHESTPLATE"
+    icon-data: "12"
+    armor: "0x66ffff"
