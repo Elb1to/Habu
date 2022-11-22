@@ -1,3 +1,5 @@
 name: Habu
 version: '${project.version}'
 main: me.elb1to.habu.Habu
+depend:
+  - helper
