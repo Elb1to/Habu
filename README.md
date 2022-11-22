@@ -32,9 +32,11 @@
 
 ### Tools, Languages and Databases 💻
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width="75"  alt="intellij"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg" width="75"  alt="kotlin"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="75" alt="mongodb"/>
+<p float="center">
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width="75"  alt="intellij"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg" width="75"  alt="kotlin"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="75" alt="mongodb"/>
+</p>
 
 ---
 
