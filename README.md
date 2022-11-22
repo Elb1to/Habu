@@ -1,10 +1,16 @@
-<p align="center"><img width="256px" height="256px" src="https://frozed.club/assets/img/logo.png" alt="logo"><br><span style="font-size: xxx-large"><b>Habu</b></span></p>
 <p align="center">
+    <span style="font-family:Montserrat;font-size: 24px"><b>Habu</b></span>
+    <br>
+    <img width="256px" height="256px" src="https://frozed.club/assets/img/logo.png" alt="logo">
+    <br>
     Habu is my first ever project written in Kotlin.
     It's a simple, yet powerful and feature-rich Hub core for Minecraft servers on 1.8.8.
-    <br><br>Made with ❤ by <a href="https://github.com/Elb1to">Elb1to</a> on <a href="https://frozed.club">Frozed Club</a>.
-    <br><br>Latest Habu version: v1.0-SNAPSHOT
-    <br>Development started on November 21th, 2022.
+    <br><br>
+    Made with ❤ by <a href="https://github.com/Elb1to">Elb1to</a> on <a href="https://frozed.club">Frozed Club</a>.
+    <br><br>
+    Latest Habu version: v1.0-SNAPSHOT
+    <br>
+    Development started on November 21th, 2022.
 </p>
 
 ---
